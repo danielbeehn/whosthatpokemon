@@ -518,7 +518,7 @@
             "type": "image/png"
           }
     ],
-    "start_url": "/?utm_source=homescreen",
+    "start_url": "/whosthatpokemon?utm_source=homescreen",
     "background_color": "#0c55a7",
     "theme_color": "#0c55a7",
     "display": "fullscreen",
