@@ -469,6 +469,7 @@ screen and (max-width: 565px) and (orientation: landscape) {
 
     #pokemon-img {
       width: 50vh;
+      margin-bottom: 80px;
     }
 
 }
