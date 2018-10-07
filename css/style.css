@@ -467,28 +467,12 @@ screen and (min-device-width : 375px) and (max-device-width : 812px) and (orient
 screen and (min-device-width : 414px) and (max-device-width : 736px) and (orientation : landscape),
 screen and (max-width: 565px) and (orientation: landscape) {
 
-  #horz-notice {
-    display: flex;
-    align-items: center;
-    align-content: center;
-    width: 100%;
-    height: 100%;
-    background-image: linear-gradient(to bottom,#0c55a7 0,#31e7f8 100%);
-    background-image: -webkit-linear-gradient(to bottom,#0c55a7 0,#31e7f8 100%);
-    position: absolute;
-    top: 0;
-    z-index: 9999;
+  #game .container {
+    flex-direction: row;
   }
 
-  #horz-notice p {
-    margin: 0 auto;
-    width: 75%;
-    max-width: 500px;
-    padding: 25px;
-    text-align: center;
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: -5px 5px 0px #1d2c5e;
-  } 
-
+  #form-controls {
+    position: inherit;
+    margin-top: -50px;
+  }
 }
