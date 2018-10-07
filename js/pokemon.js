@@ -69,7 +69,7 @@ If a player has seen 20 Pokémon:
     - hide modal and display title screen when "OK" button is clicked
 ---------------------------------------------------------------------------------- */
 
-    if (pokemonSeen == 2) {
+    if (pokemonSeen == 20) {
         let percent = score * 5;
         $( ".modal-body" ).html( `
             <p class="text-center">Your final score is:</p>
@@ -128,7 +128,9 @@ If a player has not yet seen 20 Pokémon:
 
     else {
         let pokeImg = 'img/shadows/' + pokemon.questions[randomNum].number + '.png';
+        let revealImg = 'img/reveal/' + pokemon.questions[randomNum].number + '.png';
         $( "#pokemon-img" ).attr( "src", pokeImg );
+        $( "#pokemon-reveal" ).attr( "src", revealImg );
         $( "#player-guess" ).attr( "readonly", false ).removeClass( "correct-guess" ).attr( "placeholder", "Who\'s that Pokémon?" );
         $( "#name-submit" )[0].reset();
         $( "#submit" ).css( "opacity", 1 );
