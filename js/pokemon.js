@@ -128,9 +128,7 @@ If a player has not yet seen 20 Pokémon:
 
     else {
         let pokeImg = 'img/shadows/' + pokemon.questions[randomNum].number + '.png';
-        let revealImg = 'img/reveal/' + pokemon.questions[randomNum].number + '.png';
         $( "#pokemon-img" ).attr( "src", pokeImg );
-        $( "#pokemon-reveal" ).attr( "src", revealImg );
         $( "#player-guess" ).attr( "readonly", false ).removeClass( "correct-guess" ).attr( "placeholder", "Who\'s that Pokémon?" );
         $( "#name-submit" )[0].reset();
         $( "#submit" ).css( "opacity", 1 );
@@ -186,7 +184,7 @@ Set variables for player's input, Pokémon's name and reveal image
 function playerGuess() {
     let playerInput = $( "#player-guess").val().toUpperCase();
     let pokemonName = pokemon.questions[randomNum].name.toUpperCase();
-    let revealImg = 'img/reveal/' + pokemon.questions[randomNum].name + '.png';
+    let revealImg = 'img/reveal/' + pokemon.questions[randomNum].name.toLowerCase() + '.png';
 
 /* ---------------------------------------------------------------------------------- 
 If the player's guess is a match:

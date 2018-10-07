@@ -152,11 +152,6 @@ body {
   margin-bottom: 70px;
 }
 
-#pokemon-reveal {
-  display: none;
-  visibility: hidden;
-}
-
 #form-controls {
   position: fixed;
   bottom: 0;
