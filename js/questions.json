@@ -29,6 +29,18 @@
     {"name": "Snubbull", "hint": "By baring its fangs and making a scary face, this Pok&eacute;mon sends smaller Pok&eacute;mon scurrying away in terror. However, it seems a little sad at making its foes flee.", "number": 27},
     {"name": "Heracross", "hint": "This Pok&eacute;mon charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. It even has enough power to topple a massive tree.", "number": 28},
     {"name": "Lugia", "hint": "This Pok&eacute;mon's wings pack devastating power&mdash;a light fluttering of its wings can blow apart regular houses. As a result, it chooses to live out of sight deep under the sea.", "number": 29},
-    {"name": "Ho-oh", "hint": "This Pok&eacute;mon's feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. It is said to live at the foot of a rainbow.", "number": 30}
+    {"name": "Ho-oh", "hint": "This Pok&eacute;mon's feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. It is said to live at the foot of a rainbow.", "number": 30},
+    {"name": "Celebi", "hint": "This Pok&eacute;mon came from the future by crossing over time. It is thought that so long as it appears, a bright and shining future awaits us.", "number": 31},
+    {"name": "Treecko", "hint": "This Pok&eacute;mon has small hooks on the bottom of its feet that enable it to scale vertical walls. It attacks by slamming foes with its thick tail.", "number": 32},
+    {"name": "Torchic", "hint": "This Pok&eacute;mon sticks with its Trainer, following behind with unsteady steps. It breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the foe scorched black.", "number": 33},
+    {"name": "Mudkip", "hint": "The fin on this Pok&eacute;mon's head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.", "number": 34},
+    {"name": "Wailord", "hint": "This is the largest of all identified Pok&eacute;mon up to now. hswims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.", "number": 35},
+    {"name": "Kecleon", "hint": "This Pok&eacute;mon is capable of changing its body colors at will to blend in with its surroundings. There is one exception&mdash;it can't change the zigzag pattern on its belly.", "number": 36},
+    {"name": "Absol", "hint": "Every time this Pok&eacute;mon appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster Pok&eacute;mon.", "number": 37},
+    {"name": "Wynaut", "hint": "This Pok&eacute;mon can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, it will be slapping the ground with its tail.", "number": 38},
+    {"name": "Metagross", "hint": "This Pok&eacute;mon has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. It can float in the air by tucking in its four legs.", "number": 39},
+    {"name": "Groudon", "hint": "This Pok&eacute;mon is said to be the personification of the land itself. Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature.", "number": 40},
+    {"name": "Rayquaza", "hint": "This Pok&eacute;mon is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon.", "number": 41},
+    {"name": "Kyogre", "hint": "Through Primal Reversion and with nature's full power, this Pok&eacute;mon will take back its true form. It can summon storms that cause the sea levels to rise. ", "number": 42},
     ]
 }
