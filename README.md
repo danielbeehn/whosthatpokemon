@@ -1,6 +1,3 @@
-# Who's That Pokémon?
-[Click here to play now!](https://danielbeehn.github.io/whosthatpokemon)
-
 ## Table of Contents
 - [About This Game](#about)
 - [How To Play](#howtoplay)
